@@ -32,18 +32,11 @@ Gosto de criar soluções simples para problemas complexos e estou sempre em bus
 
 ---
 
-### 🔥 Projetos em destaque
+### 🔳 Projeto em Destaque
 
-- 📱 **Landing Page Responsiva**  
-  Projeto de uma landing page feita com HTML, CSS e JavaScript puro.  
-  [🔗 Veja aqui](https://github.com/MarlonVieiraBalielo/landing-page)
-
-- 📝 **To-Do List com JavaScript**  
-  Uma lista de tarefas simples e funcional com salvamento local.  
-  [🔗 Veja aqui](https://github.com/MarlonVieiraBalielo/to-do-list)
-
-> Veja mais projetos no repositório 👇  
-[![Repos](https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarlonVieiraBalielo?tab=repositories)
+- **Gerador de QR Code**  
+  Um app simples que gera QR Codes personalizados a partir de qualquer texto ou URL.  
+  [🚀 Acesse o projeto publicado na Vercel](https://vercel.com/marlon-balielos-projects/qrcode)
 
 ---
 
@@ -59,7 +52,7 @@ Gosto de criar soluções simples para problemas complexos e estou sempre em bus
 
 ### 📊 Minhas estatísticas no GitHub
 
-![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonVieiraBalielo&show_icons=true&theme=tokyonight&count_private=true)
+![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonVieiraBalielo&show_icons=true&theme=tokyonight&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonVieiraBalielo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -68,10 +61,10 @@ Gosto de criar soluções simples para problemas complexos e estou sempre em bus
 
 Se quiser conversar, trocar ideias ou até me convidar para um projeto, é só me chamar:
 
-📧 **Email:** marlon.seuemail@gmail.com  
+📧 **Email:** marlonvieira081@gmail.com  
 📍 **Localização:** Brasil  
-🕹️ **Curiosidade:** Gosto de tecnologia, games e café ☕
+🕹️ **Curiosidade:** Gosto de tecnologia, games e **churrasco** 🔥🥩
 
 ---
 
-💡 _"A persistência realiza o impossível."_  
+💡 _"A persistência realiza o impossível."_
